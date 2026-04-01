@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+    font-family: "Vollkorn", serif;
+    font-optical-sizing: auto;
+}
+body{
+    background-color: hsl(214, 17%, 92%);
+    display: grid;
+    grid-template-rows: 25% 25% 25% 25% 15px;
+    grid-template-columns: 25% 25% 25% 25%;
+    height: 800px;
+}
+section{
+    margin: 15px 15px;
+    border-radius: 12px;
+}
+img{
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    display: flex;
+    float: left;
+}
+h1{
+    margin: 20px 0;
+}
+.content{
+    padding: 30px;
+}
+.nameBlok{
+    margin-left: 40px;
+}
+.blokDaniel{
+    background: linear-gradient(100deg, hsl(263, 55%, 52%), hsl(264, 82%, 80%));
+    color: white;
+    grid-column: 1 / span 2;
+    grid-row: 1 / span 2;
+}
+.blokJonathan{
+    background: linear-gradient(100deg, hsl(217, 19%, 35%), hsl(219, 29%, 14%));
+    color: white;
+    grid-column: 3 / span 1;
+    grid-row: 1 / span 2;
+}
+.blokJeanette,
+.blokKira{
+    background-color: white;
+    color: hsl(217, 19%, 35%);
+}
+.blokPatrick{
+    background: linear-gradient(hsl(219, 29%, 14%), hsl(240, 7%, 62%));
+    color: white;
+    grid-column: 2 / span 2;
+    grid-row: 3 / span 2;
+}
+.blokKira{
+    grid-column:  4/ span 1;
+    grid-row: 1 / span 4;
+}
+.blokJeanette{
+    grid-column: 1 / span 1;
+    grid-row: 3 / span 2;
+}
+p{
+    font-size: 1.4rem;
+    height: 100%;
+}
