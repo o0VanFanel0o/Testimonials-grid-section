@@ -4,8 +4,8 @@ Solución al reto [testimonials-grid-section](https://www.frontendmentor.io/chal
 
 ## 🔗 Links
 
-- 🌐 Demo en vivo: [GitHub Pages](https://o0vanfanel0o.github.io/Testimonials-grid-section/)
-- 💻 Repositorio: [GitHub](https://github.com/o0VanFanel0o/Testimonials-grid-section)
+- 🌐 Demo en vivo: [GitHub Pages](https://o0vanfanel0o.github.io/testimonials-grid-section/)
+- 💻 Repositorio: [GitHub](https://github.com/o0VanFanel0o/testimonials-grid-section)
 
 ## 📸 Vista previa
 
